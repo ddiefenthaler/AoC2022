@@ -1,0 +1,456 @@
+  File: AoC2022
+  Size: 0         	Blocks: 4          IO Block: 65536  directory
+Device: 5e076334h/1577542452d	Inode: 14355223812420691  Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-18 09:27:03.648142000 +0100
+Change: 2022-12-18 09:27:03.648142000 +0100
+ Birth: 2022-12-03 09:48:34.452947100 +0100
+  File: AoC2022.sln
+  Size: 997       	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 40813871623172921  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.318225400 +0100
+Modify: 2022-12-01 10:45:51.094850500 +0100
+Change: 2022-12-10 13:20:48.653672200 +0100
+ Birth: 2022-12-01 10:45:51.094850500 +0100
+  File: input1.txt
+  Size: 10432     	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 20829148276716478  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.318225400 +0100
+Modify: 2022-12-01 10:28:08.822260400 +0100
+Change: 2022-12-01 10:28:08.822260400 +0100
+ Birth: 2022-12-01 10:28:08.822260400 +0100
+  File: input10.txt
+  Size: 967       	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 9288674232080318  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.318225400 +0100
+Modify: 2022-12-10 09:17:32.764469800 +0100
+Change: 2022-12-10 09:17:32.769469400 +0100
+ Birth: 2022-12-10 09:17:32.682469300 +0100
+  File: input10_sample.txt
+  Size: 1126      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 1970324837036162  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.318225400 +0100
+Modify: 2022-12-10 09:18:20.133309500 +0100
+Change: 2022-12-10 09:18:20.133309500 +0100
+ Birth: 2022-12-10 09:18:19.986463700 +0100
+  File: input11.txt
+  Size: 1279      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 5348024558127804  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-11 07:51:03.701170800 +0100
+Change: 2022-12-11 07:51:03.707172700 +0100
+ Birth: 2022-12-11 07:51:03.636168900 +0100
+  File: input11_sample.txt
+  Size: 637       	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 5066549581530396  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-11 08:51:30.432295600 +0100
+Change: 2022-12-11 08:51:30.432295600 +0100
+ Birth: 2022-12-11 08:51:30.132465800 +0100
+  File: input12.txt
+  Size: 4674      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 95420017104975004  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-13 12:37:38.049438300 +0100
+Change: 2022-12-13 12:37:49.433703100 +0100
+ Birth: 2022-12-13 12:37:36.360073400 +0100
+  File: input12_clean.txt
+  Size: 4674      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 28710447624543355  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-13 12:37:41.199387700 +0100
+Change: 2022-12-13 12:37:49.434703200 +0100
+ Birth: 2022-12-13 12:37:36.317072500 +0100
+  File: input13.txt
+  Size: 22755     	Blocks: 24         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 43910096366919050  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-13 12:38:07.630654900 +0100
+Change: 2022-12-13 12:38:07.636398300 +0100
+ Birth: 2022-12-13 12:38:07.473292400 +0100
+  File: input13_sample.txt
+  Size: 209       	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 50665495807974488  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-13 21:15:50.104873500 +0100
+Change: 2022-12-13 21:15:50.104873500 +0100
+ Birth: 2022-12-13 21:15:49.732091700 +0100
+  File: input14.txt
+  Size: 26584     	Blocks: 28         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 4503599627429838  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-14 09:09:36.820798500 +0100
+Change: 2022-12-14 09:09:36.830798200 +0100
+ Birth: 2022-12-14 09:09:36.735800000 +0100
+  File: input14_sample.txt
+  Size: 59        	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 4222124650727879  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-14 20:29:49.586066500 +0100
+Change: 2022-12-14 20:29:49.586066500 +0100
+ Birth: 2022-12-14 20:29:49.406425700 +0100
+  File: input15.txt
+  Size: 1768      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 105271641289900089  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-15 14:04:46.825224800 +0100
+Change: 2022-12-15 14:04:46.833225500 +0100
+ Birth: 2022-12-15 14:04:46.717556900 +0100
+  File: input15_sample.txt
+  Size: 752       	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 20829148276648132  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-15 17:40:33.872628800 +0100
+Change: 2022-12-15 17:40:33.872628800 +0100
+ Birth: 2022-12-15 17:40:33.710125300 +0100
+  File: input16.txt
+  Size: 3586      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 83879543059832275  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-16 10:17:43.454670400 +0100
+Change: 2022-12-16 10:17:43.462533100 +0100
+ Birth: 2022-12-16 10:17:43.366806600 +0100
+  File: input16_sample.txt
+  Size: 572       	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 22236523160168889  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-16 21:19:06.149604600 +0100
+Change: 2022-12-16 21:19:06.149604600 +0100
+ Birth: 2022-12-16 21:19:05.974700800 +0100
+  File: input17.txt
+  Size: 10092     	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 40532396646462464  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-17 18:46:40.652919000 +0100
+Change: 2022-12-17 18:46:40.660918200 +0100
+ Birth: 2022-12-17 18:46:40.566917900 +0100
+  File: input17_sample.txt
+  Size: 40        	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 77687093572201754  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-17 22:42:46.046954500 +0100
+Change: 2022-12-17 22:42:46.046954500 +0100
+ Birth: 2022-12-17 22:42:45.895894400 +0100
+  File: input18.txt
+  Size: 20602     	Blocks: 24         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 1688849860295474  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-18 09:33:56.134490700 +0100
+Change: 2022-12-18 09:33:56.140993600 +0100
+ Birth: 2022-12-18 09:33:56.055142200 +0100
+  File: input18_sample.txt
+  Size: 91        	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 75153818781809981  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-18 09:45:24.449716200 +0100
+Change: 2022-12-18 09:45:24.449716200 +0100
+ Birth: 2022-12-18 09:45:24.309110700 +0100
+  File: input2.txt
+  Size: 10000     	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 18014398509609950  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-02 09:56:16.153133100 +0100
+Change: 2022-12-02 09:56:16.153133100 +0100
+ Birth: 2022-12-02 09:56:16.153133100 +0100
+  File: input3.txt
+  Size: 9724      	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 28147497671193764  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.319224500 +0100
+Modify: 2022-12-03 09:48:11.421864600 +0100
+Change: 2022-12-03 09:50:46.579373400 +0100
+ Birth: 2022-12-03 09:48:11.421864600 +0100
+  File: input4.txt
+  Size: 11395     	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 6755399441151631  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-04 10:08:38.173615500 +0100
+Change: 2022-12-04 10:08:38.182615200 +0100
+ Birth: 2022-12-04 10:08:38.103616600 +0100
+  File: input5.txt
+  Size: 9921      	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 131730289101323663  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-05 19:37:15.852700000 +0100
+Change: 2022-12-05 19:37:15.862492900 +0100
+ Birth: 2022-12-05 19:37:15.767017700 +0100
+  File: input6.txt
+  Size: 4096      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 11540474045715897  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-06 08:31:31.516801600 +0100
+Change: 2022-12-06 08:31:31.524198100 +0100
+ Birth: 2022-12-06 08:31:31.439957700 +0100
+  File: input7.txt
+  Size: 10338     	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 152277962400492097  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-08 19:32:50.020736900 +0100
+Change: 2022-12-08 19:32:50.027738100 +0100
+ Birth: 2022-12-08 19:32:49.906036100 +0100
+  File: input7_sample.txt
+  Size: 215       	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 5629499534779844  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-08 19:31:38.595399600 +0100
+Change: 2022-12-08 19:31:44.209196700 +0100
+ Birth: 2022-12-08 19:31:37.167811100 +0100
+  File: input8.txt
+  Size: 9900      	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 36873221949150065  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-08 19:32:28.799254000 +0100
+Change: 2022-12-08 19:32:28.809614500 +0100
+ Birth: 2022-12-08 19:32:28.690123100 +0100
+  File: input9.txt
+  Size: 8355      	Blocks: 12         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 19140298416496495  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-09 18:43:01.553298900 +0100
+Change: 2022-12-09 18:43:01.560316700 +0100
+ Birth: 2022-12-09 18:43:01.479053500 +0100
+  File: input9_sample1.txt
+  Size: 38        	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 57983845202538629  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-10 09:05:04.020852300 +0100
+Change: 2022-12-10 09:05:21.084444300 +0100
+ Birth: 2022-12-10 09:05:01.501467000 +0100
+  File: input9_sample2.txt
+  Size: 42        	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 5066549580844373  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-10 09:05:12.286970300 +0100
+Change: 2022-12-10 09:05:21.085446200 +0100
+ Birth: 2022-12-10 09:05:10.923087600 +0100
+  File: modified_times.txt
+  Size: 0         	Blocks: 0          IO Block: 65536  regular empty file
+Device: 5e076334h/1577542452d	Inode: 5910974511672508  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.310225700 +0100
+Modify: 2022-12-19 21:06:17.310225700 +0100
+Change: 2022-12-19 21:06:17.310225700 +0100
+ Birth: 2022-12-19 21:06:17.310225700 +0100
+  File: network16.dot
+  Size: 2710      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 9851624185441301  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-16 23:44:35.225021700 +0100
+Change: 2022-12-16 23:44:35.225021700 +0100
+ Birth: 2022-12-16 11:47:09.042176400 +0100
+  File: network16.pdf
+  Size: 34698     	Blocks: 36         IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 14355223812811212  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-16 11:52:35.418812400 +0100
+Change: 2022-12-16 11:52:35.418812400 +0100
+ Birth: 2022-12-16 11:51:17.536344200 +0100
+  File: AoC2022/AoC2022.csproj
+  Size: 491       	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 23080948090452309  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-16 11:40:38.146795100 +0100
+Change: 2022-12-16 11:40:38.146795100 +0100
+ Birth: 2022-12-01 10:36:10.479925500 +0100
+  File: AoC2022/Day1.cs
+  Size: 1587      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 26740122787695000  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.320227400 +0100
+Modify: 2022-12-01 11:30:34.102320100 +0100
+Change: 2022-12-01 11:30:34.102320100 +0100
+ Birth: 2022-12-01 11:30:34.102320100 +0100
+  File: AoC2022/Day10.cs
+  Size: 2787      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 52354345668339943  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-11 07:48:09.833335800 +0100
+Change: 2022-12-11 07:48:09.833335800 +0100
+ Birth: 2022-12-10 09:05:58.213013400 +0100
+  File: AoC2022/Day11.cs
+  Size: 5309      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 8725724278214795  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-11 09:18:10.993422900 +0100
+Change: 2022-12-11 09:18:10.993422900 +0100
+ Birth: 2022-12-11 07:49:39.051337300 +0100
+  File: AoC2022/Day12.txt
+  Size: 419       	Blocks: 1          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 42502721483352928  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-13 12:37:06.852132300 +0100
+Change: 2022-12-13 12:37:17.256735700 +0100
+ Birth: 2022-12-13 12:37:04.873375100 +0100
+  File: AoC2022/Day13.js
+  Size: 1772      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 15481123719242541  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-13 21:19:53.542132000 +0100
+Change: 2022-12-13 21:19:53.542132000 +0100
+ Birth: 2022-12-13 19:29:16.158134200 +0100
+  File: AoC2022/Day14.cs
+  Size: 3645      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 90071992547438959  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-15 14:06:16.257582400 +0100
+Change: 2022-12-15 14:06:16.257582400 +0100
+ Birth: 2022-12-13 12:39:25.100575400 +0100
+  File: AoC2022/Day15.cs
+  Size: 6863      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 44473046320416633  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-17 17:49:12.913237200 +0100
+Change: 2022-12-17 17:49:12.913237200 +0100
+ Birth: 2022-12-15 14:05:23.039134100 +0100
+  File: AoC2022/Day16.cs
+  Size: 7560      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 10977524091857659  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-17 00:26:14.992695300 +0100
+Change: 2022-12-17 00:26:14.992695300 +0100
+ Birth: 2022-12-16 10:24:19.024633700 +0100
+  File: AoC2022/Day17.cs
+  Size: 7074      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 3377699720698544  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-17 23:55:29.781892500 +0100
+Change: 2022-12-17 23:55:29.781892500 +0100
+ Birth: 2022-12-17 17:49:39.768164500 +0100
+  File: AoC2022/Day18.cs
+  Size: 5642      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 8444249301421113  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-18 11:10:08.592164900 +0100
+Change: 2022-12-18 11:10:08.592164900 +0100
+ Birth: 2022-12-18 09:26:58.014164900 +0100
+  File: AoC2022/Day2.cs
+  Size: 2643      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 4785074604646860  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-02 10:56:12.297616500 +0100
+Change: 2022-12-02 10:56:12.297616500 +0100
+ Birth: 2022-12-02 10:56:12.297616500 +0100
+  File: AoC2022/Day3.cs
+  Size: 2650      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 5910974511490038  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-03 12:36:10.114569600 +0100
+Change: 2022-12-03 12:36:10.114569600 +0100
+ Birth: 2022-12-03 09:49:54.118564300 +0100
+  File: AoC2022/Day4.cs
+  Size: 1838      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 65865144550436839  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-05 19:36:22.210440900 +0100
+Change: 2022-12-05 19:36:22.210440900 +0100
+ Birth: 2022-12-04 10:09:25.020198300 +0100
+  File: AoC2022/Day5.cs
+  Size: 2839      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 14073748836066479  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-08 20:03:27.902182300 +0100
+Change: 2022-12-08 20:03:27.902182300 +0100
+ Birth: 2022-12-05 19:36:01.291025900 +0100
+  File: AoC2022/Day6.cs
+  Size: 1441      	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 1970324838456521  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-08 19:30:53.834320700 +0100
+Change: 2022-12-08 19:31:01.168510300 +0100
+ Birth: 2022-12-08 19:30:53.743321200 +0100
+  File: AoC2022/Day7.cs
+  Size: 5461      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 25051272927362442  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-08 19:31:05.726067100 +0100
+Change: 2022-12-08 19:31:13.505760400 +0100
+ Birth: 2022-12-08 19:31:05.687066200 +0100
+  File: AoC2022/Day8.cs
+  Size: 5107      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 7881299348495906  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-08 20:35:42.939481300 +0100
+Change: 2022-12-08 20:35:42.939481300 +0100
+ Birth: 2022-12-08 19:31:06.645826200 +0100
+  File: AoC2022/Day9.cs
+  Size: 5643      	Blocks: 8          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 9570149208786448  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-10 09:04:42.008473400 +0100
+Change: 2022-12-10 09:04:49.110306800 +0100
+ Birth: 2022-12-10 09:04:41.955467800 +0100
+  File: AoC2022/Program.cs
+  Size: 848       	Blocks: 4          IO Block: 65536  regular file
+Device: 5e076334h/1577542452d	Inode: 38280596832704444  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:06:17.321227600 +0100
+Modify: 2022-12-18 09:46:00.612781400 +0100
+Change: 2022-12-18 09:46:00.612781400 +0100
+ Birth: 2022-12-10 09:04:54.086485200 +0100
+  File: AoC2022/bin
+  Size: 0         	Blocks: 0          IO Block: 65536  directory
+Device: 5e076334h/1577542452d	Inode: 8162774325175754  Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:03:22.419185500 +0100
+Modify: 2022-12-03 09:50:46.011937200 +0100
+Change: 2022-12-03 09:50:46.011937200 +0100
+ Birth: 2022-12-03 09:45:20.178757800 +0100
+  File: AoC2022/obj
+  Size: 0         	Blocks: 4          IO Block: 65536  directory
+Device: 5e076334h/1577542452d	Inode: 3940649674699801  Links: 1
+Access: (0755/drwxr-xr-x)  Uid: (197609/  Daniel)   Gid: (197121/    Kein)
+Access: 2022-12-19 21:03:23.065185800 +0100
+Modify: 2022-12-16 11:40:38.153794900 +0100
+Change: 2022-12-16 11:40:38.153794900 +0100
+ Birth: 2022-12-03 09:49:05.360022700 +0100
