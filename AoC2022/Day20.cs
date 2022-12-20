@@ -4,7 +4,7 @@ namespace AoC2022 {
 
     class Day20 {
         string[] lines;
-        List<(int i, int v)> entries = new();
+        List<(int i, long v)> entries = new();
 
         public Day20(string inputFile="input20.txt")
         {
@@ -19,26 +19,28 @@ namespace AoC2022 {
 
         public void parseInput() {
             for(int i=0; i < lines.Length; i++) {
-                entries.Add((i,Int32.Parse(lines[i])));
+                entries.Add((i,Int32.Parse(lines[i])*811589153L));
             }
         }
 
-        public int part1() {
-            for(int i=0; i < lines.Length; i++) {
-                int curIdx = entries.FindIndex(e => e.i == i);
-                int val = entries[curIdx].v;
-                int move = val % (lines.Length-1);
-                if(move == 0) continue;
-                entries.RemoveAt(curIdx);
-                int target = (curIdx + move + (lines.Length-1)) % (lines.Length-1);
-                entries.Insert(target, (i,val));
-            }
+        public long part1() {
+            for(int j=0; j < 10; j++) {
+                for(int i=0; i < lines.Length; i++) {
+                    int curIdx = entries.FindIndex(e => e.i == i);
+                    long val = entries[curIdx].v;
+                    int move = (int)(val % (lines.Length-1));
+                    if(move == 0) continue;
+                    entries.RemoveAt(curIdx);
+                    int target = (curIdx + move + (lines.Length-1)) % (lines.Length-1);
+                    entries.Insert(target, (i,val));
+                }
 
-            // foreach(var vals in entries) {
-            //     Console.WriteLine(vals.v);
-            // }
+                // foreach(var vals in entries) {
+                //     Console.WriteLine(vals.v);
+                // }
+                // Console.WriteLine();
+            }
             int zeroIdx = entries.FindIndex(e => e.v == 0);
-            // Console.WriteLine();
             Console.WriteLine(entries[(zeroIdx+1000) % lines.Length].v);
             Console.WriteLine(entries[(zeroIdx+2000) % lines.Length].v);
             Console.WriteLine(entries[(zeroIdx+3000) % lines.Length].v);
