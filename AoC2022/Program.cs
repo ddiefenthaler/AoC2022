@@ -8,7 +8,8 @@
 // Console.WriteLine(AoC2022.Day3.get_prio('B'));
 // Console.WriteLine(AoC2022.Day3.get_prio('Z'));
 
-new AoC2022.Day20();
+new AoC2022.Day21();
+// new AoC2022.Day21("input21_sample.txt");
 // new AoC2022.Day20("input20_sample.txt");
 // new AoC2022.Day18("input18_sample.txt");
 // new AoC2022.Day17("input17_sample.txt");
