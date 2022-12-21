@@ -1,0 +1,21 @@
+^8  >22
+v10 >41
+v18 >25
+^4  >5 : lowest d
+^12 <15: lowest g on innermost circle
+^16 >8 : lowest, rightmost i on inner cirle
+v8  >16: lowest k on leftmost inner circle
+v9  >1 : second to last lowest, leftmost l
+v7  <12: k
+^9  <10: m
+^12 >8 : o, first lowest o
+v2  >8 : p
+v9  >3 : q
+v7  <8
+^6  <8
+^9  >5 : last t
+v3  >8 : last u
+v9  <6 : lowest innermost w
+^4  <3 : last w
+^1  >2 : only y
+^1  <2 : E

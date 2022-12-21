@@ -1,0 +1,248 @@
+ Datei: AoC2022
+ Größe: 0         	Blöcke: 4          EA Block: 65536  Verzeichnis
+ Gerät: 7e9f7725h/2124379941d	Inode: 5348024557757224  Verknüpfungen: 1
+Zugriff: (0755/drwxr-xr-x)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-12 14:07:59.948018300 +0100
+Geändert: 2022-12-12 14:07:59.948018300 +0100
+Geburt: 2022-12-01 10:36:10.308381700 +0100
+ Datei: AoC2022.sln
+ Größe: 997       	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 5629499534238166  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-01 10:45:51.094850500 +0100
+Geändert: 2022-12-01 10:45:51.094850500 +0100
+Geburt: 2022-12-01 10:44:43.196082300 +0100
+ Datei: input1.txt
+ Größe: 10432     	Blöcke: 12         EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 12947848928827245  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-01 10:28:08.822260400 +0100
+Geändert: 2022-12-01 10:28:19.939315700 +0100
+Geburt: 2022-12-01 10:28:19.403817100 +0100
+ Datei: input10.txt
+ Größe: 967       	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 9288674231537069  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-12 11:27:27.614627000 +0100
+Geändert: 2022-12-12 11:27:31.061900600 +0100
+Geburt: 2022-12-12 11:27:30.711377700 +0100
+ Datei: input12.txt
+ Größe: 4674      	Blöcke: 8          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 37717646879250909  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-12 14:07:04.723961600 +0100
+Geändert: 2022-12-12 14:07:04.723961600 +0100
+Geburt: 2022-12-12 11:37:56.894784700 +0100
+ Datei: input12_clean.txt
+ Größe: 4674      	Blöcke: 8          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 52354345668189437  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-12 14:00:33.237229100 +0100
+Geändert: 2022-12-12 14:00:43.280928900 +0100
+Geburt: 2022-12-12 14:00:42.824586700 +0100
+ Datei: input2.txt
+ Größe: 10000     	Blöcke: 12         EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 16325548649245533  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-02 09:56:16.153133100 +0100
+Geändert: 2022-12-02 09:56:22.545237900 +0100
+Geburt: 2022-12-02 09:56:21.802899600 +0100
+ Datei: input5_bonus.txt
+ Größe: 10940     	Blöcke: 12         EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 6755399441063790  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-06 16:15:44.431013900 +0100
+Geändert: 2022-12-06 16:16:31.828527600 +0100
+Geburt: 2022-12-06 16:15:44.318593800 +0100
+ Datei: input6.txt
+ Größe: 4096      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 11540474045149875  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.372812300 +0100
+Modifiziert: 2022-12-06 14:06:41.312126700 +0100
+Geändert: 2022-12-06 14:06:52.526203800 +0100
+Geburt: 2022-12-06 14:06:51.934097800 +0100
+ Datei: input7.txt
+ Größe: 10338     	Blöcke: 12         EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 22799473113575195  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.373810500 +0100
+Modifiziert: 2022-12-07 11:13:09.924372200 +0100
+Geändert: 2022-12-07 11:13:16.272821800 +0100
+Geburt: 2022-12-07 11:13:15.955719600 +0100
+ Datei: input7_sample.txt
+ Größe: 215       	Blöcke: 1          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 62205969853084507  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.373810500 +0100
+Modifiziert: 2022-12-07 16:07:25.144169500 +0100
+Geändert: 2022-12-07 16:07:25.144169500 +0100
+Geburt: 2022-12-07 16:07:24.744561400 +0100
+ Datei: input8.txt
+ Größe: 9900      	Blöcke: 12         EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 4785074604105070  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.373810500 +0100
+Modifiziert: 2022-12-08 13:30:26.843985000 +0100
+Geändert: 2022-12-08 13:30:33.452280400 +0100
+Geburt: 2022-12-08 13:30:33.028415600 +0100
+ Datei: input9.txt
+ Größe: 8355      	Blöcke: 12         EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 5629499534242421  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.373810500 +0100
+Modifiziert: 2022-12-09 11:10:00.895471400 +0100
+Geändert: 2022-12-09 11:10:06.520195500 +0100
+Geburt: 2022-12-09 11:10:06.184414700 +0100
+ Datei: input9_sample1.txt
+ Größe: 38        	Blöcke: 1          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 6755399441084398  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.373810500 +0100
+Modifiziert: 2022-12-09 13:20:43.608828200 +0100
+Geändert: 2022-12-09 13:20:43.608828200 +0100
+Geburt: 2022-12-09 13:20:41.566847500 +0100
+ Datei: input9_sample2.txt
+ Größe: 42        	Blöcke: 1          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 4222124650688665  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.373810500 +0100
+Modifiziert: 2022-12-09 13:20:26.268152100 +0100
+Geändert: 2022-12-09 13:20:26.268152100 +0100
+Geburt: 2022-12-09 13:20:25.389542900 +0100
+ Datei: modified_times_pc2.txt
+ Größe: 0         	Blöcke: 0          EA Block: 65536  reguläre leere Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 23080948090297882  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.294449900 +0100
+Modifiziert: 2022-12-21 11:18:53.294449900 +0100
+Geändert: 2022-12-21 11:18:53.294449900 +0100
+Geburt: 2022-12-21 11:18:53.294449900 +0100
+ Datei: AoC2022/AoC2022.csproj
+ Größe: 249       	Blöcke: 1          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 1688849861789285  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.374807300 +0100
+Modifiziert: 2022-12-01 10:36:10.479925500 +0100
+Geändert: 2022-12-01 10:36:10.479925500 +0100
+Geburt: 2022-12-01 10:36:10.438071000 +0100
+ Datei: AoC2022/Day1.cs
+ Größe: 1587      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 3377699720879590  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.374807300 +0100
+Modifiziert: 2022-12-01 11:30:34.102320100 +0100
+Geändert: 2022-12-01 11:30:34.102320100 +0100
+Geburt: 2022-12-01 10:47:52.368050700 +0100
+ Datei: AoC2022/Day10.cs
+ Größe: 2787      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 22799473113571402  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.374807300 +0100
+Modifiziert: 2022-12-12 11:29:40.699141200 +0100
+Geändert: 2022-12-12 11:29:40.699141200 +0100
+Geburt: 2022-12-12 11:26:48.246797200 +0100
+ Datei: AoC2022/Day12.txt
+ Größe: 419       	Blöcke: 1          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 11540474045152344  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.374807300 +0100
+Modifiziert: 2022-12-12 14:08:00.065706100 +0100
+Geändert: 2022-12-12 14:08:00.065706100 +0100
+Geburt: 2022-12-12 14:07:59.155125300 +0100
+ Datei: AoC2022/Day2.cs
+ Größe: 2643      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 6192449487656553  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.374807300 +0100
+Modifiziert: 2022-12-02 10:56:12.297616500 +0100
+Geändert: 2022-12-02 10:56:12.297616500 +0100
+Geburt: 2022-12-02 09:42:27.979204700 +0100
+ Datei: AoC2022/Day3.cs
+ Größe: 2650      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 6473924464651634  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-05 09:32:46.879000000 +0100
+Geändert: 2022-12-06 13:36:47.733287100 +0100
+Geburt: 2022-12-06 14:01:35.308756200 +0100
+ Datei: AoC2022/Day4.cs
+ Größe: 1838      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 5066549581098566  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-05 09:32:46.950000000 +0100
+Geändert: 2022-12-06 13:36:47.749243000 +0100
+Geburt: 2022-12-06 14:01:35.311748300 +0100
+ Datei: AoC2022/Day5.cs
+ Größe: 2839      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 5348024557809351  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-09 13:55:50.471480600 +0100
+Geändert: 2022-12-09 13:55:50.471480600 +0100
+Geburt: 2022-12-06 14:01:35.314740300 +0100
+ Datei: AoC2022/Day6.cs
+ Größe: 1441      	Blöcke: 4          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 13510798882417898  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-06 14:25:39.574453100 +0100
+Geändert: 2022-12-06 14:25:39.574453100 +0100
+Geburt: 2022-12-06 14:01:35.304767100 +0100
+ Datei: AoC2022/Day7.cs
+ Größe: 5507      	Blöcke: 8          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 1688849860649946  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-08 14:32:36.673158900 +0100
+Geändert: 2022-12-08 14:32:36.673158900 +0100
+Geburt: 2022-12-07 11:07:21.864704500 +0100
+ Datei: AoC2022/Day8.cs
+ Größe: 5110      	Blöcke: 8          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 16044073672594268  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-09 11:07:33.028596500 +0100
+Geändert: 2022-12-09 11:07:33.028596500 +0100
+Geburt: 2022-12-08 13:49:58.900305700 +0100
+ Datei: AoC2022/Day9.cs
+ Größe: 5643      	Blöcke: 8          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 100486566685706758  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-09 13:49:02.634268600 +0100
+Geändert: 2022-12-09 13:49:02.634268600 +0100
+Geburt: 2022-12-09 11:08:17.998269900 +0100
+ Datei: AoC2022/Program.cs
+ Größe: 578       	Blöcke: 1          EA Block: 65536  reguläre Datei
+ Gerät: 7e9f7725h/2124379941d	Inode: 1125899908367974  Verknüpfungen: 1
+Zugriff: (0644/-rw-r--r--)
+Zugriff: 2022-12-21 11:18:53.375804700 +0100
+Modifiziert: 2022-12-10 13:20:28.590000000 +0100
+Geändert: 2022-12-12 11:04:13.083239700 +0100
+Geburt: 2022-12-01 10:36:10.480922600 +0100
+ Datei: AoC2022/bin
+ Größe: 0         	Blöcke: 0          EA Block: 65536  Verzeichnis
+ Gerät: 7e9f7725h/2124379941d	Inode: 1407374885078451  Verknüpfungen: 1
+Zugriff: (0755/drwxr-xr-x)
+Zugriff: 2022-12-21 11:17:44.634529800 +0100
+Modifiziert: 2022-12-01 10:36:36.567906300 +0100
+Geändert: 2022-12-01 10:36:36.567906300 +0100
+Geburt: 2022-12-01 10:36:36.567906300 +0100
+ Datei: AoC2022/obj
+ Größe: 0         	Blöcke: 4          EA Block: 65536  Verzeichnis
+ Gerät: 7e9f7725h/2124379941d	Inode: 2251799815210599  Verknüpfungen: 1
+Zugriff: (0755/drwxr-xr-x)
+Zugriff: 2022-12-21 11:17:44.631531200 +0100
+Modifiziert: 2022-12-01 10:36:36.473158400 +0100
+Geändert: 2022-12-01 10:36:36.473158400 +0100
+Geburt: 2022-12-01 10:36:11.671738700 +0100
