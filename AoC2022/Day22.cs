@@ -71,6 +71,7 @@ namespace AoC2022 {
                             Console.Write("^");
                             break;
                         default:
+                            Console.Write((char)field[i,j]);
                             break;
                     }
                 }
@@ -226,9 +227,11 @@ namespace AoC2022 {
         }
 
         void moveToCube(int x, int y) {
+            if(x == 49 && y == 99)
+                Console.Write("");
             int new_facing = facing;
             bool print = false;
-            if(y == -1) {
+            if(y == -1 && facing == 3) {
                 if(x < 100) {   // 50-99
                     y = 100 + x;
                     x = 0;
@@ -239,18 +242,18 @@ namespace AoC2022 {
                     x = 149 - x;
                     print = true;
                 }
-            } else if(x == 150) {
+            } else if(x == 150 && facing == 0) {
                 // y: 0-49
                 y = 149 - y;
                 x = 99;
                 new_facing = 2;
                 print = true;
-            } else if(y == 50 && x >= 100) {
+            } else if(y == 50 && x >= 100 && facing == 1) {
                 y = x - 50;
                 x = 99;
                 new_facing = 2;
                 print = true;
-            } else if(x == 100 && y >= 50) {
+            } else if(x == 100 && y >= 50 && facing == 0) {
                 if(y < 100) {   // 50-99
                     x = y + 50;
                     y = 49;
@@ -262,21 +265,21 @@ namespace AoC2022 {
                     new_facing = 2;
                     print = true;
                 }
-            } else if(y == 150 && x >= 50) {
+            } else if(y == 150 && x >= 50 && facing == 1) {
                 y = 100 + x;
                 x = 49;
                 new_facing = 2;
                 print = true;
-            } else if(x == 50 && y >= 150) {
+            } else if(x == 50 && y >= 150 && facing == 0) {
                 x = y - 100;
                 y = 149;
                 new_facing = 3;
                 print = true;
-            } else if(y == 200) {
+            } else if(y == 200 && facing == 1) {
                 y = 0;
                 x = 149 - x;
                 print = true;
-            } else if(x == -1) {
+            } else if(x == -1 && facing == 2) {
                 if(y >= 150) {  // 150-199
                     x = y - 100;
                     y = 0;
@@ -288,12 +291,12 @@ namespace AoC2022 {
                     new_facing = 0;
                     print = true;
                 }
-            } else if(y == 99 && x <= 49) {
+            } else if(y == 99 && x <= 49 && facing == 3) {
                 y = x + 50;
                 x = 50;
                 new_facing = 0;
                 print = true;
-            } else if(x == 49 && y <= 99) {
+            } else if(x == 49 && y <= 99 && facing == 2) {
                 if(y >= 50) {   // 50-99
                     x = y - 50;
                     y = 100;
@@ -311,20 +314,207 @@ namespace AoC2022 {
             if(field[x,y] == 2) {
                 return;
             } else {// if(field[x,y] == 1) {
-                if(print) {
-                    printField(x,y);
-                    Console.ReadKey(true);
-                }
+                // if(print) {
+                //     printField(x,y);
+                //     Console.ReadKey(true);
+                // }
                 this.x = x;
                 this.y = y;
                 facing = new_facing;
-                field[x,y] = (byte)(new_facing+3);
+                // field[x,y] = (byte)(new_facing+3);
                 return;
             }
             throw(new IndexOutOfRangeException());
         }
 
+        public static byte getLetter(int i) {
+            byte initial = (byte)'a';
+            if(i >= ('i' - 'a')) {
+                i++;
+            }
+            if(i > ('z' - 'a')) {
+                initial -= 32+26;
+            }
+            if(i > (('z' - 'a')+('I'-'A'))) {
+                i++;
+            }
+            return (byte)(initial+i);
+        }
+
+        public void test_warps() {
+            for(int i=0; i < 50; i++) {
+                y = 0;
+                x = 50+i;
+                facing = 3; // up
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 0;
+                x = 100+i;
+                facing = 3; // up
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 0+i;
+                x = 149;
+                facing = 0; // right
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 49;
+                x = 100+i;
+                facing = 1; // down
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 50+i;
+                x = 99;
+                facing = 0; // right
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 100+i;
+                x = 99;
+                facing = 0; // right
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 149;
+                x = 50+i;
+                facing = 1; // down
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 150+i;
+                x = 49;
+                facing = 0; // right
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 199;
+                x = 0+i;
+                facing = 1; // down
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 150+i;
+                x = 0;
+                facing = 2; // left
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 100+i;
+                x = 0;
+                facing = 2; // left
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 100;
+                x = 0+i;
+                facing = 3; // up
+                if(field[x,y] != 2)
+                   field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 50+i;
+                x = 50;
+                facing = 2; // left
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            // printField();
+            // Console.ReadKey(true);
+            for(int i=0; i < 50; i++) {
+                y = 0+i;
+                x = 50;
+                facing = 2; // left
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+                moveCube(4);
+                if(field[x,y] != 2)
+                    field[x,y] = getLetter(i);
+            }
+            printField();
+            // Console.ReadKey(true);
+        }
+
         public int part2() {
+            test_warps();
+            // return 0;
             y = 0;
             x = start_x;
             facing = 0;
